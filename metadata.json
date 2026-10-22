@@ -1,0 +1,6 @@
+{
+  "name": "ระบบสำรวจ Type ประชากร รพ.สต.บ้านคลองเสาเหนือ",
+  "description": "เว็บแอปพลิเคชันสำหรับ อสม. และเจ้าหน้าที่ รพ.สต.บ้านคลองเสาเหนือ สำรวจและปรับปรุงสถานะ Type 1, 2, 3 ประชากรในพื้นที่ แยกตาม อสม. ผู้รับผิดชอบ พร้อมนำเข้าและส่งออกไฟล์ Excel",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
